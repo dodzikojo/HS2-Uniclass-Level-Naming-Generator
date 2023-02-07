@@ -1,0 +1,29 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "HS2 Uniclass Level Naming Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dodzikojo/HS2-Uniclass-Level-Naming-Generator.git"
+  },
+  "keywords": [
+    "hs2",
+    "level-naming",
+    "uniclass",
+    "naming"
+  ],
+  "author": "Dodzi Agbenorku",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dodzikojo/HS2-Uniclass-Level-Naming-Generator/issues"
+  },
+  "homepage": "https://github.com/dodzikojo/HS2-Uniclass-Level-Naming-Generator#readme",
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "read-excel-file": "^5.6.0"
+  }
+}

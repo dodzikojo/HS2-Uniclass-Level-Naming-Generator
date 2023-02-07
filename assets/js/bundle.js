@@ -1,0 +1,1 @@
+console.error("Error: Parsing file C:\\Users\\AgbenorkuD\\source\\repos\\HS2-Uniclass-Level-Naming-Generator\\assets\\js\\script.js: Unexpected token (21:6)");
